@@ -1,0 +1,15 @@
+
+
+  Your Terminal type is unknown!
+
+  Enter a terminal type: [vt100] 
+TERMINAL TYPE IS SET TO vt100
+(B)0[1;24r[m[?7h[?1h=[H[J[21B[0;7mGetting https://developers.facebook.com/tools/access_token/[m[0;7mLooking up developers.facebook.com[m                         [22;35H[0;7mUnable to locate remote host developers.facebook.com.[m[0;1mAlert!: Unable to connect to remote host.[m            [22;42H
+
+[24;1H[?1l>
+Alert!: User-Agent string does not contain "Lynx" or "L_y_n_x"
+Looking up developers.facebook.com
+Unable to locate remote host developers.facebook.com.
+Alert!: Unable to connect to remote host.
+
+lynx: Can't access startfile https://developers.facebook.com/tools/access_token/
